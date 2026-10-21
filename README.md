@@ -10,6 +10,10 @@ All data streams, fluid properties, system logic, and compliance indicators disp
 
 An interactive web-based dashboard engineered with *Python, **Streamlit, and **Plotly* to simulate, track, and monitor early fluid phase transitions of Carbon Dioxide ($CO_2$) during the transient operating cycles of a CCUS (Carbon Capture, Utilization, and Storage) injection line.
 
+## 🌐 Live Emulated App
+You can interact with the live deployed simulation dashboard directly in your web browser here:
+👉 *[Live Simulation Dashboard Link]([https://streamlit.app](https://co2-phase-transition-monitor-zseqzm2r5ascqnueclck9d.streamlit.app/)* (Note: Replace this placeholder text with your actual Streamlit URL after deployment opens)
+
 ## 🎯 Simulated Core Features
 - *Phase Boundary Logic:* Real-time emulated tracking of $CO_2$ properties moving out of the Dense phase into critical Two-Phase/Gas fluid regions.
 - *Dynamic Graphical Metrics:* Tightly integrated Pressure-Temperature ($P-T$) boundary maps and interactive density curve plots.
@@ -35,4 +39,4 @@ An interactive web-based dashboard engineered with *Python, **Streamlit, and **P
 
 3. *Launch the interactive application server:*
    bash
-   python -m streamlit run app.py
+   python -m streamlit run app.py.py
